@@ -1,5 +1,5 @@
 package edu.ncsu.monopoly;
-//I have added a comment“
+//modificado el dia 26
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;

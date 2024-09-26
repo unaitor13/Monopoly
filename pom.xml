@@ -51,7 +51,7 @@
 		<sonar.organization>jononekin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>unaitor13_monopolly</sonar.projectKey>
-		<sonar.login>ced8fa48b9064938d8adb46bc1692f96b9f75541</sonar.login>
+		<sonar.login>f603dfb5afdf65c988806ef8d12730ca66fcaf5b</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
